@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farischamakay
 - 👀 I’m interested in Mobile Developer
-- 🌱 I’m currently learning Jetpack Compose and flutter
+- 🌱 I’m currently learning Jetpack Compose and React
 
 ## 🧰 Tech Stack:
 
