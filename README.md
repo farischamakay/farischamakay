@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farischamakay
-- 👀 I’m interested in Mobile Developer
+- 👀 Mobile Developer with 2+ years experience
 - 🌱 I’m currently learning Jetpack Compose, Kotlin Multiplatform, and also Generative AI
 
 ## 🧰 Tech Stack:
